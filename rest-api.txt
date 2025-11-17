@@ -1,1 +1,3 @@
 belajar restful api server
+
+dan belajar seperti biasa pada umumnya beserta belajar matematika
